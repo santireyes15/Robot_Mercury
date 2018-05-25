@@ -1,3 +1,2 @@
 # Robot_Mercury
-Code for explorer robot
-Python, Arduino1
+Code for explorer robot in Python and Arduino1
